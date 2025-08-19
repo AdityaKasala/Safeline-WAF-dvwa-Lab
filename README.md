@@ -22,8 +22,8 @@ This project documents a home cybersecurity lab featuring SafeLine Web Applicati
 - Check SafeLine dashboard for logged attacks and blocking events
 
 ## Structure
-- `README.md` — This documentation
-- `lab-notes.md` — Step-by-step commands, setups, and troubleshooting
+- [README.md](README.md) — This documentation
+- [lab-notes.md](lab-notes.md) — Step-by-step commands, setups, and troubleshooting
 - `screenshots/` — Visual proof including block pages and statistics
 
 ## Screenshots Highlights
