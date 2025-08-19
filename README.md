@@ -24,7 +24,7 @@ This project documents a home cybersecurity lab featuring SafeLine Web Applicati
 ## Structure
 - [README.md](README.md) — This documentation
 - [lab-notes.md](lab-notes.md) — Step-by-step commands, setups, and troubleshooting
-- `screenshots/` — Visual proof including block pages and statistics
+- [screenshots](screenshots) — Visual proof including block pages and statistics
 
 ## Screenshots Highlights
 - Access Forbidden page by SafeLine WAF on SQLi attempt
