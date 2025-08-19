@@ -43,6 +43,3 @@ This project documents a home cybersecurity lab featuring SafeLine Web Applicati
 Follow `lab-notes.md` to replicate the environment and test procedures.
 
 ---
-
-## License
-Educational purposes only.
